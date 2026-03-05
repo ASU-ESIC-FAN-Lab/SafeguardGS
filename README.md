@@ -33,7 +33,7 @@ See the following links to download the datasets. Note that the T&T and DB are t
 
 1. Clone this repo and enter the project root directory.
 ```shell
-git clone https://github.com/nfyfamr/SafeguardGS.git --recursive
+git clone https://github.com/ASU-ESIC-FAN-Lab/SafeguardGS.git --recursive
 cd SafeguardGS
 ```
 
